@@ -58,7 +58,7 @@ sudo apt install authd
 
 ## Install brokers
 
-The brokers are provided as Snap packages and are available from the Snap Store.
+The brokers are provided as snap packages and are available from the Snap Store.
 Install the broker corresponding to the identity provider that you want to use:
 
 :::::{tab-set}
