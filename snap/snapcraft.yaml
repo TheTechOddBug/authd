@@ -17,11 +17,9 @@ description: |
     Explore the official documentation for installation and configuration steps, or visit the GitHub repository to
     contribute or provide feedback.
 icon: snap/logo.png
-website:
-  - https://github.com/ubuntu/authd-oidc-brokers
-  - https://github.com/ubuntu/authd
-issues: https://github.com/ubuntu/authd/issues
-source-code: https://github.com/ubuntu/authd-oidc-brokers/tree/oidc
+website: https://documentation.ubuntu.com/authd
+issues: https://github.com/canonical/authd/issues
+source-code: https://github.com/canonical/authd
 adopt-info: version
 grade: stable
 base: core24
