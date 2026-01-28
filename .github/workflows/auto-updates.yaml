@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
+    paths:
+      - 'Cargo.lock'
       - 'debian/control'
 concurrency: auto-update
 
